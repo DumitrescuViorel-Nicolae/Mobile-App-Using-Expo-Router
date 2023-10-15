@@ -6,7 +6,6 @@ import { checkImageURL } from '../../../../utilz/checkImageUrl'
 import styles from './nearbyjobcard.style'
 
 const PopularJobCard = ({ item, handleNavigate }) => {
-  console.log(item)
   return (
     <TouchableOpacity
       style={styles.container}

@@ -1,5 +1,5 @@
 import { Stack, useRouter } from "expo-router";
-import { View, Text, SafeAreaView } from "react-native";
+import { View, SafeAreaView } from "react-native";
 
 import { COLORS, icons, images, SIZES } from "../constants";
 import { ScrollView } from "react-native-gesture-handler";
